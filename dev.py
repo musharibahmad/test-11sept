@@ -1,7 +1,7 @@
 print("Enter values")
-def add(a, b):
+def subtract(a, b):
 
-    i = a + b
+    i = a - b
     return i
 
-print(add(1, 2))
+print(subtract(1, 2))
